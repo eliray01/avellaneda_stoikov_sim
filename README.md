@@ -38,8 +38,8 @@ hftmaster/
 # 🚀 Quick start
 1. Clone & enter the repo
     ```bash
-    git clone https://github.com/eliray01/Research-Seminar.git
-    cd Research-Seminar/hftmaster
+    git clone https://github.com/eliray01/avellaneda_stoikov_sim.git
+    cd avellaneda_stoikov_sim/hftmaster
     ```
 2. Create environment & install deps
     ```bash
